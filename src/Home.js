@@ -1,3 +1,5 @@
+import React from 'react'
+
 import { Carousel, Container } from 'react-bootstrap'
 import { Splide, SplideSlide } from '@splidejs/react-splide'
 import useSWR from 'swr'
